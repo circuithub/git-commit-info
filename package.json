@@ -1,0 +1,20 @@
+{
+  "author": "CircuitHub <developers@circuithub.com> (circuithub.com)",
+  "name": "git-commit-info",
+  "description": "Simple utility that allows to get last commit info",
+  "keywords": ["git", "commit", "info", "utility"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/circuithub/git-commit-info.git"
+  },
+  "main": "index.coffee",
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "coffee-script": ">=1.2.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
