@@ -1,7 +1,7 @@
 {exec} = require "child_process"
 
 exports.getInfo = (gitDir, callback) ->
-	cmd = "git --git-dir=#{gitDire}/.git log -1"
+  cmd = "git --git-dir=#{gitDire}/.git log -1"
   metadata = {}
   exec cmd, (err, stdout, stderr) ->
     if err

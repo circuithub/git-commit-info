@@ -3,7 +3,7 @@
   "name": "git-commit-info",
   "description": "Simple utility that allows to get last commit info",
   "keywords": ["git", "commit", "info", "utility"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/circuithub/git-commit-info.git"
