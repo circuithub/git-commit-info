@@ -1,9 +1,9 @@
 {
   "author": "CircuitHub <developers@circuithub.com> (circuithub.com)",
   "name": "git-commit-info",
-  "description": "Simple utility that allows to get last commit info",
+  "description": "Simple utility that allows to get the latest commit info",
   "keywords": ["git", "commit", "info", "utility"],
-  "version": "0.0.2",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/circuithub/git-commit-info.git"
