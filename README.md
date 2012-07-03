@@ -23,13 +23,6 @@ gitCommitInfo.getInfo __dirname, (err, metadata) ->
 
 That's easy!
 
-
-## Contributions
-
-Mail-listener is ready to use in your project. However if you need any feature tell us or fork project and implement it by yourself.
-
-We appreciate feedback!
-
 ## License
 
 (The MIT License)
