@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/circuithub/git-commit-info.png)](http://travis-ci.org/circuithub/git-commit-info)
 # Overview
 
 Simple utility that allows to get the latest commit info from git repository.
