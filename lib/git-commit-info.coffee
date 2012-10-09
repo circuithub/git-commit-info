@@ -5,7 +5,7 @@ exports.getInfo = (gitDir, callback) ->
   metadata = {}
   exec cmd, (err, stdout, stderr) ->
     if err
-      callback err
+      callback err, {}
     else
       rows = stdout.split "\n"
       commit = rows[0].split " "
